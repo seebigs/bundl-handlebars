@@ -1,0 +1,25 @@
+{
+  "name": "bundl-handlebars",
+  "version": "0.1.0",
+  "description": "Handlebars templating for Bundl",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/automated"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seebigs/bundl-handlebars.git"
+  },
+  "author": "Chris Bigelow <seebigswork@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seebigs/bundl-handlebars/issues"
+  },
+  "devDependencies": {
+    "feather-test": "^1.3.1"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "seebigs-utils": "^1.4.0"
+  }
+}
